@@ -1,0 +1,11 @@
+erwin DM Model Annotations
+
+Logical Diagram:
+This is a diagram presenting all the data elements as established by business personnel during the data requirements phase for YOUR SYSTEM. These entities, attributes and their definitions describe what the business identifies as the data requirements needed for this system. As changes are needed, any additional data requirements or other business data changes are applied to the application, this diagram will be updated to reflect these changes.
+
+Target Audience: Business Users
+
+Physical Diagram:
+This diagram represents the physical implementation for the database supporting YOUR SYSTEM. All details for the physical database schema are available in this view to enable technical personnel in planning and scheduling database changes to this system.
+
+Target Audience: Technical personnel
